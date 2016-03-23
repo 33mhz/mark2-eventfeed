@@ -1,8 +1,8 @@
 # mark2-eventfeed
-A simple event plugin for the [Mark2](https://github.com/gsand/mark2) Minecraft wrapper.
+A middleware event plugin for the [Mark2](https://github.com/gsand/mark2) Minecraft wrapper.
 
 
-This plugin simply listens for the common hooks in Mark2 and executes your own script with the events.
+This plugin simply listens for the common hooks in Mark2 and executes your own script with the events as environment variables.
 
 
 ## Installation
